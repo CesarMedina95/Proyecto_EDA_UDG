@@ -47,6 +47,7 @@ Le gustaria saber a que productos, regiones, categorias y segmentos de clientes 
 
 
 
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
