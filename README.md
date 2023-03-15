@@ -32,3 +32,11 @@ La estructura que queremos que tenga este repositorio es la siguiente:
 - Missing values
 - Visualización de datos
 - Referencias
+
+
+# Descripción de los datos
+
+Actualmente en el mundo existe una competencia en el mercado de Abarrotes, por lo que la siguiente SuperMercado esta buscando
+que es lo que mejor funciona para una mejor toma de decisiones de negocio.
+
+Le gustaria saber a que productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar.
