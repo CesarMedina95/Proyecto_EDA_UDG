@@ -40,3 +40,14 @@ Actualmente en el mundo existe una competencia en el mercado de Abarrotes, por l
 que es lo que mejor funciona para una mejor toma de decisiones de negocio.
 
 Le gustaria saber a que productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar.
+
+[fuente:GIPHY] (https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy-downsized.gif)
+
+
+
+
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
