@@ -23,8 +23,8 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     └── src               <- Coding files.  
     
     
-    # Aqui se creara un EDA (Analisis Exploratorio de Datos)
-    
+ # Aqui se creara un EDA (Analisis Exploratorio de Datos)
+ 
  El análisis de EDA deberá realizarse en un Jupyter Notebook y considerar los siguientes puntos:
 
 - Descripción de los datos
