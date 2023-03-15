@@ -41,7 +41,7 @@ que es lo que mejor funciona para una mejor toma de decisiones de negocio.
 
 Le gustaria saber a que productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar.
 
-![](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy-downsized.gif)
+![](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy.gif)
 
 [fuente:GIPHY](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy-downsized.gif)
 
