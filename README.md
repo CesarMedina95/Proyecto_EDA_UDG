@@ -43,7 +43,7 @@ Le gustaria saber a que productos, regiones, categorias y segmentos de clientes 
 
 ![](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy-downsized.gif)
 
-[fuente:GIPHY]
+[fuente:GIPHY](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy-downsized.gif)
 
 
 
