@@ -37,9 +37,35 @@ La estructura que queremos que tenga este repositorio es la siguiente:
 # Descripción de los datos
 
 Actualmente en el mundo existe una competencia en el mercado de Abarrotes, por lo que la siguiente SuperMercado esta buscando
-que es lo que mejor funciona para una mejor toma de decisiones de negocio.
+que es lo que mejor funciona para una mejor toma de decisiones de negocio. Hoy en dia el Business Inteligence 
 
-Le gustaria saber a que productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar.
+
+En este proyecto se analizará la importancia del Business Intelligence en la toma de decisiones de una tienda de abarrotes, destacando la relevancia de las técnicas de análisis de productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar-
+
+La base de datos utilizada tiene la siguiente estructura:
+
+- Row ID => ID unico para cada fila .
+- Order ID => ID unico por cada cliente .
+- Order Date => Fecha de orden del producto.
+- Ship Date => Fecha de envio del producto.
+- Ship Mode=> Metodo de envio especificado por el cliente.
+- Customer ID => ID unico para identificar a cada cliente.
+- Customer Name => Nombre del cliente.
+- Segment => El segmento al cual el cliente pertenece.
+- Country => Pais de residencia del cliente.
+- City => Ciudad de residencia del cliente.
+- State => Estado de residencial del cliente.
+- Postal Code => Codigo postal por cada cliente.
+- Region => Region al cual el cliente pertenece.
+- Product ID => ID unico del producto.
+- Category => Categoria del producto ordenado.
+- Sub-Category => Sub-Categoria del producto ordenado.
+- Product Name => Nombre del producto.
+- Sales => Ventas del producto.
+- Quantity => Cantidad del producto.
+- Discount => Descuento proporcionado.
+- Profit => Ganancias/Perdidas incurridas.
+
 
 ![](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy.gif)
 
