@@ -40,7 +40,7 @@ Actualmente en el mundo existe una competencia en el mercado de Abarrotes, por l
 que es lo que mejor funciona para una mejor toma de decisiones de negocio. Hoy en dia el Business Inteligence 
 
 
-En este proyecto se analizará la importancia del Business Intelligence en la toma de decisiones de una tienda de abarrotes, destacando la relevancia de las técnicas de análisis de productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar-
+En este proyecto se analizará la importancia del Business Intelligence en la toma de decisiones de una tienda, destacando la relevancia de las técnicas de análisis de productos, regiones, categorias y segmentos de clientes debe dirigirse o evitar-
 
 La base de datos utilizada tiene la siguiente estructura:
 
@@ -71,6 +71,8 @@ La base de datos utilizada tiene la siguiente estructura:
 
 [fuente:GIPHY](https://media.giphy.com/media/WyIgdHXMWEngSb6RHf/giphy-downsized.gif)
 
+
+ [Proyecto EDA de Supermercado](./Proyecto EDA de Supermercado.ipynb)
 
 
 
