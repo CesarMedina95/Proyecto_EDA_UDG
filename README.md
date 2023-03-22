@@ -1,4 +1,4 @@
-# Proyecto_EDA_UDG
+# Proyecto de Supermercado
 
 # Estructura de repositorio
 
